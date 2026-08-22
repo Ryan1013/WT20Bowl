@@ -321,6 +321,61 @@ video_links = {
     "EM Phillips": {
         "No Movement": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260606_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32.mp4",
         "Seam In/Inswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260606_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33.mp4"
+    },
+    "KL Coppack": {
+        "Boundaries": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4.mp4",
+        "Seam In/Inswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5.mp4",
+        "Seam Away/Outswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6.mp4",
+        "Slower Ball": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7.mp4",
+        "Yorker": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8.mp4"
+    },
+    "JL Gardner": {
+        "Compilation": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9.mp4"
+    },
+    "BLJ Gillgrass": {
+        "No Turn": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10.mp4",
+        "Turn In": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11.mp4",
+        "Turn Away": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12.mp4"
+    },
+    "E Gray": {
+        "No Movement": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14.mp4",
+        "Seam In/Inswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13.mp4",
+        "Slower Ball": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15.mp4"
+    },
+    "JL Grewcock": {
+        "No Turn": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18.mp4",
+        "Turn Away": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19.mp4"
+    },
+    "EI MacGregor": {
+        "No Movement": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20.mp4",
+        "Seam In/Inswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21.mp4",
+        "Seam Away/Outswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22.mp4",
+        "Slower Ball": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30.mp4"
+    },
+    "AM Maqsood": {
+        "No Turn": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23.mp4",
+        "Turn Away": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24.mp4"
+    },
+    "SEN Munro": {
+        "No Movement": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25.mp4",
+        "Seam In/Inswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26.mp4",
+        "Seam Away/Outswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28.mp4",
+        "Slower Ball": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27.mp4",
+        "Yorker": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29.mp4"
+    },
+    "GE Scrivens": {
+        "No Turn": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31.mp4",
+        "Turn In": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32.mp4",
+        "Arm Ball": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38.mp4"
+    },
+    "SAE Smale": {
+        "No Turn": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33.mp4",
+        "Turn Away": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34.mp4",
+        "Arm Ball": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37.mp4"
+    },
+    "AJM Johnson": {
+        "No Turn": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35.mp4",
+        "Turn In": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36.mp4"
     }
 }
 
