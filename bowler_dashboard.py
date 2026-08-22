@@ -398,10 +398,13 @@ selected_levels = st.sidebar.multiselect(
 # Bowling Team
 teams = sorted(data['Bowling Team'].dropna().unique())
 
+default_teams = ["Essex Women", "Essex Women 2nd XI"]
+default_teams = [team for team in default_teams if team in teams]
+
 selected_teams = st.sidebar.multiselect(
     "Bowling Team",
     teams,
-    default=["Essex Women"] if "Essex Women" in teams else teams[:1]
+    default=default_teams
 )
 
 # Bowler (dependent)
