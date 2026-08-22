@@ -341,6 +341,7 @@ video_links = {
     "E Gray": {
         "No Movement": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14.mp4",
         "Seam In/Inswinger": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13.mp4",
+        "Off Cutter": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31_32_33_34_35_36_37_38_39_40_41_42_43_44_45_46_47_48.mp4",
         "Slower Ball": "https://vid.ecb.nvplay.net/video-highlights/2026/VPM_260822_PLAYLIST_1080_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15.mp4"
     },
     "JL Grewcock": {
